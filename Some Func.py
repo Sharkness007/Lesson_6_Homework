@@ -1,4 +1,4 @@
-def add_value(key, value):
+def add_value(key, value):       #Добавляет в файл строку ключ:значение (key:value)
 
 
     with open("example.db", "r") as file:
